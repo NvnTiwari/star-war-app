@@ -1,0 +1,3 @@
+[submodule "star-war-ui"]
+    path = star-war-ui
+    url = https://github.com/your-username/star-war-ui.git
